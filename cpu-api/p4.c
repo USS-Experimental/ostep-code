@@ -5,6 +5,7 @@
 #include <fcntl.h>
 #include <assert.h>
 #include <sys/wait.h>
+#include <sys/stat.h>
 
 int
 main(int argc, char *argv[])
